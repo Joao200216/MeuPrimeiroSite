@@ -1,0 +1,62 @@
+body{
+    font-family: arial, sans-serit;
+    margin: 0%;
+    padding: 0%;
+}
+header ul{
+    text-align: right;
+    list-style-type: none;
+    padding: 10px;
+    margin: 10px;
+}
+header li {
+ display: inline-block;
+ margin: 10px;
+}    
+
+header{
+background-color: rgb(53, 104, 155);
+color: rgb(8, 29, 29);
+padding: 70px;
+
+}
+h1{
+    font-size: 20px;
+    margin: 0%;
+    text-align: center;
+}
+nav ul{
+    list-style: none;
+}
+nav li{
+    display: contents;
+    margin-right: 20px;
+}
+/* Estilo da noticias */
+.noticias{
+    max-width: 800px;
+    margin: auto;
+    padding: 10px;
+}
+article{
+    border-bottom: 2px solid #880909;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+h2{
+    font-size: 20px;
+    margin: 0%;
+    text-align: center;
+}
+p{
+    text-align: left;
+    font-size: 23px;
+    line-height: 1.6;
+}
+/* Estilo do rodapé */
+footer{
+    background-color: rgb(53,104, 155);
+    -webkit-column-break-before: #fff;
+    text-align: center;
+    padding: 2px;
+}
